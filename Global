@@ -227,3 +227,38 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1901
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="DEPORTES", TyC Sports Internacional
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1903
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA", MTV MX
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/36564
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA", MTV Live
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/36570
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="MUSICA", Telehit
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/36579
+
+#EXTINF:-1 tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA", VEVO Latin Pop
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115722
+
+#EXTINF:-1 tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA", VEVO 70'S
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115724
+
+#EXTINF:-1 tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA", VEVO Reggaton Trap
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115706
+
+#EXTINF:-1 tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA", VEVO 80'S
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115707
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="MUSICA", VH1
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/36584
+
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 1 (90s Reloaded 2008)
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132169
+
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 2 (Pop eurodance 90s)
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
+
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 4 (90s)
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="MUSICA", MC: Dance
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1948
