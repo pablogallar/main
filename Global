@@ -84,10 +84,10 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86866
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="PELICULAS-SERIES", TNT SERIES
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86867
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="DIBUJOS", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="INFANTILES", DISNEY CHANNEL
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86874
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="DIBUJOS", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="INFANTILES", CARTOON NETWORK
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86872
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="PELICULAS-SERIES", HBO 2
@@ -102,7 +102,7 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86997
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif" group-title="MUSICA", MTV
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86999
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="DIBUJOS", NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTILES", NICK
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png" group-title="PELICULAS-SERIES", PARAMOUNT
@@ -153,13 +153,13 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/87076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION", DISCOVERY ID
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87077
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="DIBUJOS", TOONCAST
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="INFANTILES", TOONCAST
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87106
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="PELICULAS-SERIES", iSAT
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87117
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif" group-title="DIBUJOS", NICKTOONS
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif" group-title="INFANTILES", NICKTOONS
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87114
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="PELICULAS-SERIES", HBO SIGNATURE
@@ -201,7 +201,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="CANAL AIRE", Cronica TV
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/274
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Pakapaka_canal_logo.svg" group-title="DIBUJOS", Pakapaka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Pakapaka_canal_logo.svg" group-title="INFANTILES", Pakapaka
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26949
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Milenium-TV-Salta-en-vivo-Online.png" group-title="CANAL AIRE", Canal 17 Milenium Salta
@@ -277,3 +277,15 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="España", La 1
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/103
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="INFANTILES", Discovery Kids
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1782
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="INFANTILES", Nickelodeon HD
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7359
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES", Nick Jr
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115728
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/Nickelodeon2.co.png" group-title="INFANTILES", TeenNick
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1777
