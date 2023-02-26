@@ -1,0 +1,229 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/08015d817b968b5a9599e3e710a58245.png" group-title="CANAL AIRE", EL TRECE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86608
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/3a28f95b39fc5af9247ccc2379c9cd22.png" group-title="CANAL AIRE", TELEFE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86609
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/78f73b49c3faa367e42163f1272faa0f.png" group-title="CANAL AIRE", CANAL 26
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86611
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png" group-title="CANAL AIRE", A24
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86612
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/36fe58c34608d48fe1de338d2c55d2f5.png" group-title="CANAL AIRE", TN NOTICIAS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86619
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES", ESPN PREMIUM
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86630
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/282-2821163_0-tvg-logo-https-el-garage-tv-hd.png" group-title="DEPORTES", GARAGE TV
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86649
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES", ESPN
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149631
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES", ESPN2
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149632
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="DEPORTES", FOX SPORTS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149634
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d61377c7a5bc13f8669a6346fb547eec.png" group-title="DEPORTES", FOX SPORTS 2
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149636
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="DEPORTES", FOX SPORTS 3
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149635
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="PELICULAS-SERIES", HBO PLUS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149638
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="PELICULAS-SERIES", SPACE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149643
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="PELICULAS-SERIES", CINECANAL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149644
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="PELICULAS-SERIES", FX
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149645
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS-SERIES", STAR CHANNEL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149646
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PELICULAS-SERIES", SONY
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149647
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/68c23b6f90c84c8c5c076a8a5278573f.png" group-title="PELICULAS-SERIES", WARNER HD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149648
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="PELICULAS-SERIES", UNIVERSAL CHANNEL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149649
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/24200e5458115164277932bc29676978.png" group-title="PELICULAS-SERIES", AXN
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149650
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PELICULAS-SERIES", A&E
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149652
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/de38da097e1139b7d319f234f0057667.png" group-title="PELICULAS-SERIES", TBS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149653
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="PELICULAS-SERIES", AMC
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149654
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a156fe16fad2f066fd0c090caf4b89b7.png" group-title="PELICULAS-SERIES", SYFY
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149655
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="PELICULAS-SERIES", HBO
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86858
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="PELICULAS-SERIES", TNT CHANNEL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86866
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="PELICULAS-SERIES", TNT SERIES
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86867
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="DIBUJOS", DISNEY CHANNEL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86874
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="DIBUJOS", CARTOON NETWORK
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86872
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="PELICULAS-SERIES", HBO 2
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87023
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="CULTURAL", HISTORIA
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86994
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/98a2245eb8327ea202772dee3062f094.png" group-title="CULTURAL", LIFETIME
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86997
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif" group-title="MUSICA", MTV
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86999
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="DIBUJOS", NICK
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87002
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png" group-title="PELICULAS-SERIES", PARAMOUNT
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87004
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7c4e8694f6496f257495f7b195018868.gif" group-title="INVESTIGACION", TRUTV
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87011
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="PELICULAS-SERIES", HBO POP
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87016
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="PELICULAS-SERIES", HBO FAMILY
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87024
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="PELICULAS-SERIES", HBO MUNDI
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87025
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="PELICULAS-SERIES", HBO PLUS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87026
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="PELICULAS-SERIES", HBO EXTREME
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87028
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="CULTURAL", DISCOVERY H&H
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87030
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png" group-title="PELICULAS-SERIES", ADRENALINA FHD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87032
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="PELICULAS-SERIES", TLC
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87033
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif" group-title="CULTURAL", H2
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87038
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png" group-title="CULTURAL", E ENTERTAIN
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87069
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="PELICULAS-SERIES", COMEDY CENTRAL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87071
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/f5abb98f8a86fefdf93a33eb1324f360.gif" group-title="CULTURAL", DISCOVERY SCIENCE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87074
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="PELICULAS-SERIES", DISCOVERY THEATHER
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87076
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION", DISCOVERY ID
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87077
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="DIBUJOS", TOONCAST
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87106
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="PELICULAS-SERIES", iSAT
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87117
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif" group-title="DIBUJOS", NICKTOONS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87114
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="PELICULAS-SERIES", HBO SIGNATURE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87119
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png" group-title="CULTURAL", CNN
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124473
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PELICULAS-SERIES", TCM
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124471
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/422cf866ef0481cd5523e343338d42bd.png" group-title="CULTURAL", GOURMET
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124477
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/9b6403d83a5ede6615d4f08bb03e3939.png" group-title="DEPORTES", DISCOVERY TURBO
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124487
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png" group-title="CULTURAL", DISCOVERY CHANNEL
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124488
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="PELICULAS-SERIES", CINEMAX FHD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/124489
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="CANAL AIRE", C5N
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/70341
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/749px-Logotipo_de_America_TV.svg.png" group-title="CANAL AIRE", America TV
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/257
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg" group-title="CANAL AIRE", Television Publica
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/25183
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="CANAL AIRE", El Nueve
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/261
+
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/05/cine-ar-logo-vector.png" group-title="PELICULAS-SERIES", Cine AR
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/273
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="CANAL AIRE", Cronica TV
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/274
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Pakapaka_canal_logo.svg" group-title="DIBUJOS", Pakapaka
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26949
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Milenium-TV-Salta-en-vivo-Online.png" group-title="CANAL AIRE", Canal 17 Milenium Salta
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/41331
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MUSICA", Music Top
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/41358
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="CULTURAL", Magazine
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/60417
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="CANAL AIRE", LN+
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/126043
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="CANAL AIRE", Net TV HD
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/163369
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", Directv Sports
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26524
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES", TNT Sports
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="DEPORTES", TyC Sports Internacional
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1903
