@@ -260,5 +260,20 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 4 (90s)
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="MUSICA", MC: Dance
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24434
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Cuatro.png" group-title="España", Cuatro
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/144
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="España", Telecinco
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/77
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/La_Sexta.png" group-title="España", La Sexta
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/105
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="España", La 2
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="España", La 1
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/103
