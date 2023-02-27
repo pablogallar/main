@@ -361,6 +361,3 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86219
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c326fa94b590cc3094389f12faccec47.gif" group-title="CULTURAL", Food Network
 http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
-
-#EXTINF:-1,tvg-logo=https://seeklogo.com/images/S/Sun_Channel_Tourism_TV-logo-6B3771A35C-seeklogo.com.png" group-title="CULTURAL", SUN CHANNEL
-http://hls.giize.com/aMX6smRG1b/v1.php/sunchannel/stream1/streamPlaylist.m3u8
