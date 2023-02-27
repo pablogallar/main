@@ -180,6 +180,9 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/124487
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png" group-title="CULTURAL", DISCOVERY CHANNEL
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124488
 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel 4K+" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="INFANTIL   ",Disney Channel 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70698
+
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="PELICULAS-SERIES", CINEMAX FHD
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124489
 
@@ -263,20 +266,20 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24434
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Cuatro.png" group-title="España", Cuatro
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/144
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="España", Telecinco
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/77
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/La_Sexta.png" group-title="España", La Sexta
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/105
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 4K+" tvg-logo="" group-title="ESPANA",|ES| LA 1 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70682
+
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Cuatro 4K+" tvg-logo="" group-title="ESPANA",|ES| Cuatro 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70685
+
+#EXTINF:-1 tvg-id="" tvg-name="|ES| La Sexta 4K+" tvg-logo="" group-title="ESPANA",|ES| La Sexta 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70687
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="España", La 2
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="España", La 1
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/103
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="INFANTILES", Discovery Kids
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1782
@@ -289,9 +292,6 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115728
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/Nickelodeon2.co.png" group-title="INFANTILES", TeenNick
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1777
-
-#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/press/logo_stingraykaraoke.png" group-title="MUSICA", Stingray Karaoke
-https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
@@ -325,3 +325,21 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Soul Storm
 https://stirr.ott-channels.stingray.com/134/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia 4K+" tvg-logo="http://iptvglobal.site:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="PELICULAS-SERIES",Movistar Comedia 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105214
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 4K+" tvg-logo="http://iptvglobal.site:25461/images/bc0ee4b850bf9b102969d755520143f4.jpg" group-title="PELICULAS-SERIES",Movistar Estrenos 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105216
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series 4K+" tvg-logo="http://iptvglobal.site:25461/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="PELICULAS-SERIES",Movistar Series 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105218
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 4K+" tvg-logo="https://i.picasion.com/pic92/bc92bd200ea3f9f5f9cfe1c1edf1fd00.gif" group-title="DEPORTES",Movistar Deportes 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105220
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series Mania 4K+" tvg-logo="http://iptvglobal.site:25461/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="PELICULAS-SERIES",Movistar Series Mania 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105221
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title="DEPORTES",Movistar Golf 4K+
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105222
