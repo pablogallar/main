@@ -361,3 +361,9 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86219
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c326fa94b590cc3094389f12faccec47.gif" group-title="CULTURAL", Food Network
 http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/canal-cocina-hd-android.png:225" group-title="CULTURAL", DELICIOSO COCINA
+http://playhispano.org:25461/tv5full/ORuTvDJARP/118538
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5a0a105da803bb1549f43b85/1546991442664-7CN5I0HWPBIEJLIPDIWN/Full+Color.png?content-type=image%2Fpng" group-title="CULTURAL", COCINA
+http://playhispano.org:25461/tv5full/ORuTvDJARP/118537
