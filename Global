@@ -289,3 +289,39 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115728
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/Nickelodeon2.co.png" group-title="INFANTILES", TeenNick
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1777
+
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/press/logo_stingraykaraoke.png" group-title="MUSICA", Stingray Karaoke
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Alternative
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Exitos Del Momento
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Flashback 70S
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Greatest Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Hip-Hop/R&B
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Hot Country
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Pop Adult
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Remember The 80S
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA", Stingray Soul Storm
+https://stirr.ott-channels.stingray.com/134/master.m3u8
