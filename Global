@@ -180,9 +180,6 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/124487
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png" group-title="CULTURAL", DISCOVERY CHANNEL
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124488
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel 4K+" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="INFANTILES",Disney Channel 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70698
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="PELICULAS-SERIES", CINEMAX FHD
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124489
 
@@ -329,17 +326,23 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia 4K+" tvg-logo="http://iptvglobal.site:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="PELICULAS-SERIES",Movistar Comedia 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105214
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 4K+" tvg-logo="http://iptvglobal.site:25461/images/bc0ee4b850bf9b102969d755520143f4.jpg" group-title="PELICULAS-SERIES",Movistar Estrenos 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105216
-
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Series 4K+" tvg-logo="http://iptvglobal.site:25461/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="PELICULAS-SERIES",Movistar Series 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105218
-
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 4K+" tvg-logo="https://i.picasion.com/pic92/bc92bd200ea3f9f5f9cfe1c1edf1fd00.gif" group-title="DEPORTES",Movistar Deportes 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105220
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Series Mania 4K+" tvg-logo="http://iptvglobal.site:25461/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="PELICULAS-SERIES",Movistar Series Mania 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105221
-
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title="DEPORTES",Movistar Golf 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105222
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX 1 4K" tvg-logo="https://i.picasion.com/pic92/2dd023937de9e64f26231f2c0cebef71.gif" group-title="PELICULAS-SERIES",CINEBOX 1 4K
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87665
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CE FHD" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2013/03/sbt.jpg" group-title="BRASIL",SBT CE
+http://cdn.skoltv.site:80/36354035/34655043/108788
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MT" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="BRASIL",RECORD MT
+http://cdn.skoltv.site:80/36354035/34655043/108789
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIÁRIO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="BRASIL",GLOBO TV DIÁRIO
+http://cdn.skoltv.site:80/36354035/34655043/108786
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABUGI" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV CABUGI
+http://cdn.skoltv.site:80/36354035/34655043/108780
