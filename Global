@@ -263,22 +263,22 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 4 (90s)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24434
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="España", Telecinco
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="ESPAÑA", Telecinco
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/77
 
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 4K+" tvg-logo="" group-title="ESPANA",|ES| LA 1 4K+
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70682
 
-#EXTINF:-1 tvg-id="" tvg-name="|ES| Cuatro 4K+" tvg-logo="" group-title="ESPANA",|ES| Cuatro 4K+
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro 4K+" tvg-logo="http://swedtv.vip/logos/spain/Cuatro.png" group-title="ESPAÑA",Cuatro 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70685
 
-#EXTINF:-1 tvg-id="" tvg-name="|ES| La Sexta 4K+" tvg-logo="" group-title="ESPANA",|ES| La Sexta 4K+
+#EXTINF:-1 tvg-id="" tvg-name="La Sexta 4K+" tvg-logo="http://swedtv.vip/logos/spain/La_Sexta.png" group-title="ESPAÑA",La Sexta 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70687
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="España", La 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="ESPAÑA", La 2
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="INFANTILES", Discovery Kids
