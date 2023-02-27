@@ -332,9 +332,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105220
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title="DEPORTES",Movistar Golf 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105222
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX 1 4K" tvg-logo="https://i.picasion.com/pic92/2dd023937de9e64f26231f2c0cebef71.gif" group-title="PELICULAS-SERIES",CINEBOX 1 4K
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87665
-
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CE FHD" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2013/03/sbt.jpg" group-title="BRASIL",SBT CE
 http://cdn.skoltv.site:80/36354035/34655043/108788
 
@@ -346,3 +343,27 @@ http://cdn.skoltv.site:80/36354035/34655043/108786
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABUGI" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV CABUGI
 http://cdn.skoltv.site:80/36354035/34655043/108780
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cee2d5ac650bae609247cf1204c7687d.gif" group-title="CULTURAL", ANIMAL PLANET
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86187
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/64b9aee575afef0b63aaf4c5e7910d74.gif" group-title="CULTURAL", DISCOVERY CIVILIZACION
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86193
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ffa76cd45b32ca3d85572f5d2e0763ac.gif" group-title="CULTURAL", HGTV
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86199
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1b9e5b855df699765edb4807ac16cad2.gif" group-title="CULTURAL", DISCOVERY WORLD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86211
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c8342962cfe8939e200e0f356d3a2b3f.gif" group-title="CULTURAL", NAT GEO WILD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86219
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif" group-title="INFANTILES", DISNEY XD
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86398
+
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="INFANTILES", BOOMERAN
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86400
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c326fa94b590cc3094389f12faccec47.gif" group-title="CULTURAL", Food Network
+http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
