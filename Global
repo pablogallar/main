@@ -260,8 +260,14 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 4 (90s)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 1
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 2
+https://atres-live.atresmedia.com/de1b7bac92e972761d016515289c3c4ce7499dea_ES_1664474298_1664503038/h264/live/antena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 3
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/35
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="ESPAÑA", Telecinco
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/77
