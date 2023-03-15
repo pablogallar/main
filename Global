@@ -61,13 +61,13 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/149648
 http://playhispano.org:25461/tv5full/ORuTvDJARP/149649
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/24200e5458115164277932bc29676978.png" group-title="PELICULAS-SERIES", AXN
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/31
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149650
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PELICULAS-SERIES", A&E
 http://playhispano.org:25461/tv5full/ORuTvDJARP/149652
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/de38da097e1139b7d319f234f0057667.png" group-title="PELICULAS-SERIES", TBS
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65812
+http://playhispano.org:25461/tv5full/ORuTvDJARP/149653
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="PELICULAS-SERIES", AMC
 http://playhispano.org:25461/tv5full/ORuTvDJARP/149654
@@ -78,8 +78,8 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/149655
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="PELICULAS-SERIES", HBO
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86858
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="PELICULAS-SERIES", TNT
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1864
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="PELICULAS-SERIES", TNT CHANNEL
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2195
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="PELICULAS-SERIES", TNT SERIES
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86867
@@ -258,15 +258,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132169
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 2 (Pop eurodance 90s)
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132170
 
-#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA", Classic Project 4 (90s)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 1
-https://livestartover-i.akamaized.net/antena3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 2
-https://atres-live.atresmedia.com/de1b7bac92e972761d016515289c3c4ce7499dea_ES_1664474298_1664503038/h264/live/antena3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="ESPAÑA", Antena 3
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/35
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/Telecinco.png" group-title="ESPAÑA", Telecinco
