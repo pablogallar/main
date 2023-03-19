@@ -362,3 +362,6 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/canal-cocina-hd-android.png:225" group-title="CULTURAL", COCINA
 http://playhispano.org:25461/tv5full/ORuTvDJARP/118538
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSICA", Tropicales
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/14733
