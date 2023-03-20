@@ -54,7 +54,7 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/149646
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PELICULAS-SERIES", SONY
 http://playhispano.org:25461/tv5full/ORuTvDJARP/149647
 
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/68c23b6f90c84c8c5c076a8a5278573f.png" group-title="PELICULAS-SERIES", WARNER HD
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/68c23b6f90c84c8c5c076a8a5278573f.png" group-title="PELICULAS-SERIES", WARNER
 http://playhispano.org:25461/tv5full/ORuTvDJARP/149648
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="PELICULAS-SERIES", UNIVERSAL CHANNEL
@@ -129,7 +129,7 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/87028
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="CULTURAL", DISCOVERY H&H
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4569
 
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png" group-title="PELICULAS-SERIES", ADRENALINA FHD
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png" group-title="PELICULAS-SERIES", ADRENALINA
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87032
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="PELICULAS-SERIES", TLC
@@ -180,7 +180,7 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/124487
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png" group-title="CULTURAL", DISCOVERY CHANNEL
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124488
 
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="PELICULAS-SERIES", CINEMAX FHD
+#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="PELICULAS-SERIES", CINEMAX
 http://playhispano.org:25461/tv5full/ORuTvDJARP/124489
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="CANAL AIRE", C5N
@@ -216,8 +216,8 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/60417
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="CANAL AIRE", LN+
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/126043
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="CANAL AIRE", Net TV HD
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/163369
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="CANAL AIRE", Net TV
+http://tv.nousiptv.com:8080/099304930/Enrique/3356
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", Directv Sports
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26524
@@ -279,7 +279,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="INFANTILES", Discovery Kids
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1782
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="INFANTILES", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="INFANTILES", Nickelodeon
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7359
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES", Nick Jr
@@ -330,7 +330,7 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105220
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title="DEPORTES",Movistar Golf 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105222
 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CE FHD" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2013/03/sbt.jpg" group-title="BRASIL",SBT CE
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CE" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2013/03/sbt.jpg" group-title="BRASIL",SBT CE
 http://cdn.skoltv.site:80/36354035/34655043/108788
 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MT" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="BRASIL",RECORD MT
