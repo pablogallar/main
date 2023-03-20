@@ -365,3 +365,6 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/118538
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSICA", Tropicales
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/14733
+
+#EXTINF:-1 tvg-logo="http://swedtv.net:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="MUSICA", Quiero Musica
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/25189
