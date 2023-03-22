@@ -171,10 +171,16 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86219
 http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
 #EXTINF:-1 tvg-id="CanalCocina.es(m3u4u)" tvg-name="COCINA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90332_dark_360w_270h.png" group-title="CULTURAL",COCINA
 http://playhispano.org:25461/tv5full/ORuTvDJARP/118538
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
+http://axr.life:80/096154/686531/1263400
 #EXTINF:-1 tvg-id="Markket.br(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
 http://axr.life:80/096154/686531/1263400
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MODO VIAGEM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="CULTURAL",MODO VIAGEM
+http://axr.life:80/096154/686531/1263403
 #EXTINF:-1 tvg-id="ModoViagem.br(m3u4u)" tvg-name="MODO VIAGEM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="CULTURAL",MODO VIAGEM
 http://axr.life:80/096154/686531/1263403
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
+http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
 http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="MTV.ar(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
@@ -251,3 +257,5 @@ http://cdn.skoltv.site:80/36354035/34655043/108789
 http://cdn.skoltv.site:80/36354035/34655043/108786
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV CABUGI" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV CABUGI
 http://cdn.skoltv.site:80/36354035/34655043/108780
+#EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN INTERNACIONACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NOTICIAS",CNN INTERNACIONACIONAL
+http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
