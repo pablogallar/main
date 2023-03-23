@@ -267,3 +267,5 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca7f16c37b88b2694731c79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=801&terminate=false&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="NOTICIAS",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="PRUEBAS",TYC SPORTS
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
