@@ -6,7 +6,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/263
 #EXTINF:-1 tvg-id="Canal26.ar(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/300838
 #EXTINF:-1 tvg-id="America24.ar(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86612
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/233889
 #EXTINF:-1 tvg-id="TODONOTICIAS.ar(m3u4u)" tvg-name="TN NOTICIAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79899_dark_360w_270h.png" group-title="CANAL AIRE",TN NOTICIAS
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/112802
 #EXTINF:-1 tvg-id="C5N.ar(m3u4u)" tvg-name="C5N" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="CANAL AIRE",C5N
@@ -74,7 +74,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65812
 #EXTINF:-1 tvg-id="AMC.ar(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="PELICULAS-SERIES",AMC
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1835
 #EXTINF:-1 tvg-id="SYFY.ar(m3u4u)" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="PELICULAS-SERIES",SYFY
-http://playhispano.org:25461/tv5full/ORuTvDJARP/149655
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26623
 #EXTINF:-1 tvg-id="TNT.ar(m3u4u)" tvg-name="TNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT CHANNEL
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1864
 #EXTINF:-1 tvg-id="TNTSeries.ar(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT SERIES
@@ -102,7 +102,7 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/87032
 #EXTINF:-1 tvg-id="TLC.ar(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="PELICULAS-SERIES",TLC
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7102
 #EXTINF:-1 tvg-id="ComedyCentral.ar(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="PELICULAS-SERIES",COMEDY CENTRAL
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87071
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40847
 #EXTINF:-1 tvg-id="DiscoveryTheater(English).ar(m3u4u)" tvg-name="DISCOVERY THEATHER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="PELICULAS-SERIES",DISCOVERY THEATHER
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4571
 #EXTINF:-1 tvg-id="ISAT(English).ar(m3u4u)" tvg-name="iSAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="PELICULAS-SERIES",iSAT
@@ -120,15 +120,15 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/60417
 #EXTINF:-1 tvg-id="MovistarComedia.es(m3u4u)" tvg-name="Movistar Comedia 4K+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91184_dark_360w_270h.png" group-title="PELICULAS-SERIES",Movistar Comedia 4K+
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105214
 #EXTINF:-1 tvg-id="DisneyChannel.ar(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="INFANTILES",DISNEY CHANNEL
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86874
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1781
 #EXTINF:-1 tvg-id="CartoonNetwork.ar(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="INFANTILES",CARTOON NETWORK
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86872
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1783
 #EXTINF:-1 tvg-id="Nick.ar(m3u4u)" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTILES",NICK
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87002
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7359
 #EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTILES",TOONCAST
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87106
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7363
 #EXTINF:-1 tvg-id="Nicktoons(English).mx(m3u4u)" tvg-name="NICKTOONS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="INFANTILES",NICKTOONS
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87114
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7360
 #EXTINF:-1 tvg-id="Pakapaka.ar(m3u4u)" tvg-name="Pakapaka" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" group-title="INFANTILES",Pakapaka
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26949
 #EXTINF:-1 tvg-id="DiscoveryKids.ar(m3u4u)" tvg-name="Discovery Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="INFANTILES",Discovery Kids
@@ -140,37 +140,37 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115728
 #EXTINF:-1 tvg-id="TeenNick(English).ar(m3u4u)" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTILES",TeenNick
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1777
 #EXTINF:-1 tvg-id="History.ar(m3u4u)" tvg-name="HISTORIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CULTURAL",HISTORIA
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86994
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4579
 #EXTINF:-1 tvg-id="Lifetime.ar(m3u4u)" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="CULTURAL",LIFETIME
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86997
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40850
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.ar(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY H&H
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4569
 #EXTINF:-1 tvg-id="H2History.ar(m3u4u)" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CULTURAL",H2
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87038
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/15183
 #EXTINF:-1 tvg-id="EEntertainmentTV.ar(m3u4u)" tvg-name="E ENTERTAIN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CULTURAL",E ENTERTAIN
 http://playhispano.org:25461/tv5full/ORuTvDJARP/87069
 #EXTINF:-1 tvg-id="DiscoveryScience.co(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY SCIENCE
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87074
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/2013
 #EXTINF:-1 tvg-id="CNNEnEspanol.ar(m3u4u)" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="CULTURAL",CNN
-http://playhispano.org:25461/tv5full/ORuTvDJARP/124473
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102401
 #EXTINF:-1 tvg-id="ElGourmet.ar(m3u4u)" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET
-http://playhispano.org:25461/tv5full/ORuTvDJARP/124477
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4570
 #EXTINF:-1 tvg-id="DiscoveryChannel.ar(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY CHANNEL
-http://playhispano.org:25461/tv5full/ORuTvDJARP/124488
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4568
 #EXTINF:-1 tvg-id="AnimalPlanet.ar(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CULTURAL",ANIMAL PLANET
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86187
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/233953
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CIVILIZACION" tvg-logo="https://i.picasion.com/pic92/64b9aee575afef0b63aaf4c5e7910d74.gif" group-title="CULTURAL",DISCOVERY CIVILIZACION
 http://playhispano.org:25461/tv5full/ORuTvDJARP/86193
 #EXTINF:-1 tvg-id="HGTV.co(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="CULTURAL",HGTV
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86199
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115650
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY WORLD
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86211
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4572
 #EXTINF:-1 tvg-id="NationalGeographicWild.ar(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67590_dark_360w_270h.png" group-title="CULTURAL",NAT GEO WILD
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86219
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/52
 #EXTINF:-1 tvg-id="FoodNetwork.ar(m3u4u)" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="CULTURAL",Food Network
-http://playhispano.org:25461/tv5full/ORuTvDJARP/88213
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/27203
 #EXTINF:-1 tvg-id="CanalCocina.es(m3u4u)" tvg-name="COCINA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90332_dark_360w_270h.png" group-title="CULTURAL",COCINA
-http://playhispano.org:25461/tv5full/ORuTvDJARP/118538
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24143
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
 http://axr.life:80/096154/686531/1263400
 #EXTINF:-1 tvg-id="Markket.br(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
@@ -184,7 +184,7 @@ http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
 http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="MTV.ar(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86999
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/36567
 #EXTINF:-1 tvg-id="MusicTop.ar(m3u4u)" tvg-name="Music Top" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MUSICA",Music Top
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/41358
 #EXTINF:-1 tvg-id="MTV.mx(m3u4u)" tvg-name="MTV MX" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV MX
@@ -257,23 +257,11 @@ http://cdn.skoltv.site:80/36354035/34655043/108789
 http://cdn.skoltv.site:80/36354035/34655043/108786
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV CABUGI" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV CABUGI
 http://cdn.skoltv.site:80/36354035/34655043/108780
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BLOOMBERG HT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="NOTICIAS",BLOOMBERG HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-name="BLOOMBERG TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="NOTICIAS",BLOOMBERG TV
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN INTERNACIONACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NOTICIAS",CNN INTERNACIONACIONAL
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 #EXTINF:-1 tvg-id="GameShowNetwork.us(m3u4u)" tvg-name="GAMES SHOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="NOTICIAS",GAMES SHOW
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PLUTO TV GAMER" tvg-logo="" group-title="NOTICIAS",PLUTO TV GAMER
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca7f16c37b88b2694731c79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=801&terminate=false&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="NOTICIAS",YAHOO FINANCE
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BLOOMBERG TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="NOTICIAS",BLOOMBERG TV
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNN INTERNACIONACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NOTICIAS",CNN INTERNACIONACIONAL
-http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GAMES SHOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="NOTICIAS",GAMES SHOW
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PLUTO TV GAMER" tvg-logo="" group-title="NOTICIAS",PLUTO TV GAMER
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca7f16c37b88b2694731c79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=801&terminate=false&userId=
