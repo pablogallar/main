@@ -1,210 +1,196 @@
-#EXTM3U url-tvg="http://vmp.one:80/get.php?username=56uUkbXjm&password=3wG68uul4H&type=m3u_plus"
+#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5md42tw6mevy39p"
 #EXTINF:-1 tvg-id="ElTrece.ar(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/266.ts
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517087.ts
 #EXTINF:-1 tvg-id="TelefeInternacional.ar(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
 http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/383340.ts
 #EXTINF:-1 tvg-id="Canal26.ar(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/300838
-#EXTINF:-1 tvg-id="America24.ar(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/233889
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/557338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754089.ts
 #EXTINF:-1 tvg-id="TODONOTICIAS.ar(m3u4u)" tvg-name="TN NOTICIAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79899_dark_360w_270h.png" group-title="CANAL AIRE",TN NOTICIAS
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/112802
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/127141.ts
 #EXTINF:-1 tvg-id="C5N.ar(m3u4u)" tvg-name="C5N" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="CANAL AIRE",C5N
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/70341
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/127144.ts
 #EXTINF:-1 tvg-id="AmericaTV.ar(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/257
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436128.ts
 #EXTINF:-1 tvg-id="TvPublica.ar(m3u4u)" tvg-name="Television Publica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="CANAL AIRE",Television Publica
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/25183
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/3145.ts
 #EXTINF:-1 tvg-id="Elnueve.ar(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/261
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517081.ts
 #EXTINF:-1 tvg-id="CronicaTV.ar(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="CANAL AIRE",Cronica TV
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/274
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 17 Milenium Salta" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Milenium-TV-Salta-en-vivo-Online.png" group-title="CANAL AIRE",Canal 17 Milenium Salta
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/41331
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517092.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIVISION Salta" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Milenium-TV-Salta-en-vivo-Online.png" group-title="CANAL AIRE",MULTIVISION Salta
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126029.ts
 #EXTINF:-1 tvg-id="LNplus.ar(m3u4u)" tvg-name="LN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="CANAL AIRE",LN+
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/126043
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517124.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="CANAL AIRE",Net TV
-https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126059.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN PREMIUM" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES",ESPN PREMIUM
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/69258
-#EXTINF:-1 tvg-id="ElGarageTV.mx(m3u4u)" tvg-name="GARAGE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50263_dark_360w_270h.png" group-title="DEPORTES",GARAGE TV
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/24054
-#EXTINF:-1 tvg-id="ESPN.ar(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/24637
-#EXTINF:-1 tvg-id="ESPN2.ar(m3u4u)" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN2
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/107157
-#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar(m3u4u)" tvg-name="FOX SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/26531
-#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar(m3u4u)" tvg-name="FOX SPORTS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 2
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/26533
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar(m3u4u)" tvg-name="FOX SPORTS 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 3
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/158180
-#EXTINF:-1 tvg-id="DiscoveryTurbo.ar(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",DISCOVERY TURBO
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/15100
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754094.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GARAGE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50263_dark_360w_270h.png" group-title="DEPORTES",GARAGE TV
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/3147.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/196301.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN2
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517169.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126055.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 2
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/195350.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 3
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/195349.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",DISCOVERY TURBO
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436252.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",Directv Sports
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/26524
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754092.ts
 #EXTINF:-1 tvg-id="TNTSports.ar(m3u4u)" tvg-name="TNT Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1901
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126069.ts
 #EXTINF:-1 tvg-id="TyCSports.ar(m3u4u)" tvg-name="TyC Sports Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports Internacional
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1903
-#EXTINF:-1 tvg-id="MovistarDeportes.es(m3u4u)" tvg-name="Movistar Deportes 4K+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="DEPORTES",Movistar Deportes 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105220
-#EXTINF:-1 tvg-id="MovistarGolf.es(m3u4u)" tvg-name="Movistar Golf 4K+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90358_dark_360w_270h.png" group-title="DEPORTES",Movistar Golf 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105222
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/434772.ts
+#EXTINF:-1 tvg-id="MovistarDeportes.es(m3u4u)" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="DEPORTES",Movistar Deportes
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/580009.ts
+#EXTINF:-1 tvg-id="MovistarGolf.es(m3u4u)" tvg-name="Movistar Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90358_dark_360w_270h.png" group-title="DEPORTES",Movistar Golf
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579981.ts
 #EXTINF:-1 tvg-id="Space.ar(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="PELICULAS-SERIES",SPACE
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/15129
-#EXTINF:-1 tvg-id="Cinecanal.ar(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="PELICULAS-SERIES",CINECANAL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1837
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517161.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="PELICULAS-SERIES",CINECANAL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517148.ts
 #EXTINF:-1 tvg-id="FX.ar(m3u4u)" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="PELICULAS-SERIES",FX
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/102713
-#EXTINF:-1 tvg-id="StarChannel.ar(m3u4u)" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="PELICULAS-SERIES",STAR CHANNEL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1841
-#EXTINF:-1 tvg-id="CanalSony.ar(m3u4u)" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="PELICULAS-SERIES",SONY
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1863
-#EXTINF:-1 tvg-id="WarnerChannel.ar(m3u4u)" tvg-name="WARNER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="PELICULAS-SERIES",WARNER
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/119658
-#EXTINF:-1 tvg-id="StudioUniversal.ar(m3u4u)" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="PELICULAS-SERIES",UNIVERSAL CHANNEL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1812
-#EXTINF:-1 tvg-id="AXN.ar(m3u4u)" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="PELICULAS-SERIES",AXN
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1836
-#EXTINF:-1 tvg-id="AandE.ar(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="PELICULAS-SERIES",A&E
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1834
-#EXTINF:-1 tvg-id="TBS(English).ar(m3u4u)" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="PELICULAS-SERIES",TBS
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/65812
-#EXTINF:-1 tvg-id="AMC.ar(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="PELICULAS-SERIES",AMC
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1835
-#EXTINF:-1 tvg-id="SYFY.ar(m3u4u)" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="PELICULAS-SERIES",SYFY
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/26623
-#EXTINF:-1 tvg-id="TNT.ar(m3u4u)" tvg-name="TNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT CHANNEL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1864
-#EXTINF:-1 tvg-id="TNTSeries.ar(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT SERIES
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1865
-#EXTINF:-1 tvg-id="HBO2.ar(m3u4u)" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO 2
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1858
-#EXTINF:-1 tvg-id="ParamountNetwork.ar(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="PELICULAS-SERIES",PARAMOUNT
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1852
-#EXTINF:-1 tvg-id="HBO.ar(m3u4u)" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1856
-#EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO+
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1855
-#EXTINF:-1 tvg-id="HBOPOP.ar(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO POP
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1860
-#EXTINF:-1 tvg-id="HBOFamily(English).ar(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO FAMILY
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1857
-#EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO MUNDI
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1807
-#EXTINF:-1 tvg-id="HBOXtreme.ar(m3u4u)" tvg-name="HBO EXTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO EXTREME
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/40829
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ADRENALINA" tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png" group-title="PELICULAS-SERIES",ADRENALINA
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87032
-#EXTINF:-1 tvg-id="TLC.ar(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="PELICULAS-SERIES",TLC
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/7102
-#EXTINF:-1 tvg-id="ComedyCentral.ar(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="PELICULAS-SERIES",COMEDY CENTRAL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/40847
-#EXTINF:-1 tvg-id="DiscoveryTheater(English).ar(m3u4u)" tvg-name="DISCOVERY THEATHER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="PELICULAS-SERIES",DISCOVERY THEATHER
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4571
-#EXTINF:-1 tvg-id="ISAT(English).ar(m3u4u)" tvg-name="iSAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="PELICULAS-SERIES",iSAT
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/24135
-#EXTINF:-1 tvg-id="HBOSignature.ar(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO SIGNATURE
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1854
-#EXTINF:-1 tvg-id="TCM.ar(m3u4u)" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="PELICULAS-SERIES",TCM
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/74
-#EXTINF:-1 tvg-id="Cinemax.ar(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="PELICULAS-SERIES",CINEMAX
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/15128
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517156.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="PELICULAS-SERIES",STAR CHANNEL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517150.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="PELICULAS-SERIES",SONY
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517160.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="PELICULAS-SERIES",WARNER
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754088.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="PELICULAS-SERIES",UNIVERSAL CHANNEL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754086.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="PELICULAS-SERIES",AXN
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517147.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="PELICULAS-SERIES",A&E
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517145.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="PELICULAS-SERIES",TBS
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754081.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="PELICULAS-SERIES",AMC
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="PELICULAS-SERIES",SYFY
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754080.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT CHANNEL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517162.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT SERIES
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517163.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="PELICULAS-SERIES",PARAMOUNT
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517159.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/195347.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO+
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517158.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO 2
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/195348.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO POP
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO FAMILY
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/195346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO MUNDI
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754074.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="PELICULAS-SERIES",TLC
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436488.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="PELICULAS-SERIES",COMEDY CENTRAL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579221.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY THEATHER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="PELICULAS-SERIES",DISCOVERY THEATHER
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="iSAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="PELICULAS-SERIES",iSAT
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/438026.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO SIGNATURE
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754071.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="PELICULAS-SERIES",TCM
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754082.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="PELICULAS-SERIES",CINEMAX
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754058.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine AR" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/05/cine-ar-logo-vector.png" group-title="PELICULAS-SERIES",Cine AR
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/273
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517090.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="PELICULAS-SERIES",Magazine
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/60417
-#EXTINF:-1 tvg-id="MovistarComedia.es(m3u4u)" tvg-name="Movistar Comedia 4K+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91184_dark_360w_270h.png" group-title="PELICULAS-SERIES",Movistar Comedia 4K+
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/105214
-#EXTINF:-1 tvg-id="DisneyChannel.ar(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="INFANTILES",DISNEY CHANNEL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1781
-#EXTINF:-1 tvg-id="CartoonNetwork.ar(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="INFANTILES",CARTOON NETWORK
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1783
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126052.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es(m3u4u)" tvg-name="Movistar Comedia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91184_dark_360w_270h.png" group-title="PELICULAS-SERIES",Movistar Comedia
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/580051.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="INFANTILES",DISNEY CHANNEL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517144.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="INFANTILES",CARTOON NETWORK
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517129.ts
 #EXTINF:-1 tvg-id="Nick.ar(m3u4u)" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTILES",NICK
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/7359
-#EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTILES",TOONCAST
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/7363
-#EXTINF:-1 tvg-id="Nicktoons(English).mx(m3u4u)" tvg-name="NICKTOONS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="INFANTILES",NICKTOONS
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/7360
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTILES",TOONCAST
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754084.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICKTOONS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="INFANTILES",NICKTOONS
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436401.ts
 #EXTINF:-1 tvg-id="Pakapaka.ar(m3u4u)" tvg-name="Pakapaka" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" group-title="INFANTILES",Pakapaka
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/26949
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/196298.ts
 #EXTINF:-1 tvg-id="DiscoveryKids.ar(m3u4u)" tvg-name="Discovery Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="INFANTILES",Discovery Kids
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1782
-#EXTINF:-1 tvg-id="Nick.ar(m3u4u)" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTILES",Nickelodeon
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/7359
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517130.ts
 #EXTINF:-1 tvg-id="NickJr.mx(m3u4u)" tvg-name="Nick Jr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="INFANTILES",Nick Jr
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115728
-#EXTINF:-1 tvg-id="TeenNick(English).ar(m3u4u)" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTILES",TeenNick
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/1777
-#EXTINF:-1 tvg-id="History.ar(m3u4u)" tvg-name="HISTORIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CULTURAL",HISTORIA
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4579
-#EXTINF:-1 tvg-id="Lifetime.ar(m3u4u)" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="CULTURAL",LIFETIME
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/40850
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CULTURAL",HISTORIA
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517135.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="CULTURAL",LIFETIME
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754072.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.ar(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY H&H
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4569
-#EXTINF:-1 tvg-id="H2History.ar(m3u4u)" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CULTURAL",H2
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/15183
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CULTURAL",H2
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754070.ts
 #EXTINF:-1 tvg-id="EEntertainmentTV.ar(m3u4u)" tvg-name="E ENTERTAIN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CULTURAL",E ENTERTAIN
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87069
-#EXTINF:-1 tvg-id="DiscoveryScience.co(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY SCIENCE
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/2013
-#EXTINF:-1 tvg-id="CNNEnEspanol.ar(m3u4u)" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="CULTURAL",CNN
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/102401
-#EXTINF:-1 tvg-id="ElGourmet.ar(m3u4u)" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4570
-#EXTINF:-1 tvg-id="DiscoveryChannel.ar(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY CHANNEL
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4568
-#EXTINF:-1 tvg-id="AnimalPlanet.ar(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CULTURAL",ANIMAL PLANET
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/233953
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754063.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY SCIENCE
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="CULTURAL",CNN
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754060.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754069.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY CHANNEL
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CULTURAL",ANIMAL PLANET
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436132.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CIVILIZACION" tvg-logo="https://i.picasion.com/pic92/64b9aee575afef0b63aaf4c5e7910d74.gif" group-title="CULTURAL",DISCOVERY CIVILIZACION
-http://playhispano.org:25461/tv5full/ORuTvDJARP/86193
-#EXTINF:-1 tvg-id="HGTV.co(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="CULTURAL",HGTV
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115650
-#EXTINF:-1 tvg-id="DiscoveryWorld.ar(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY WORLD
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/4572
-#EXTINF:-1 tvg-id="NationalGeographicWild.ar(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67590_dark_360w_270h.png" group-title="CULTURAL",NAT GEO WILD
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/52
-#EXTINF:-1 tvg-id="FoodNetwork.ar(m3u4u)" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="CULTURAL",Food Network
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/27203
-#EXTINF:-1 tvg-id="CanalCocina.es(m3u4u)" tvg-name="COCINA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90332_dark_360w_270h.png" group-title="CULTURAL",COCINA
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/24143
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436225.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="CULTURAL",HGTV
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579236.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY WORLD
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517132.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67590_dark_360w_270h.png" group-title="CULTURAL",NAT GEO WILD
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436391.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="CULTURAL",Food Network
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579233.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COCINA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90332_dark_360w_270h.png" group-title="CULTURAL",COCINA
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579660.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
 http://axr.life:80/096154/686531/1263400
-#EXTINF:-1 tvg-id="Markket.br(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
-http://axr.life:80/096154/686531/1263400
-#EXTINF:-1 tvg-id="ModoViagem.br(m3u4u)" tvg-name="MODO VIAGEM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="CULTURAL",MODO VIAGEM
-http://axr.life:80/096154/686531/1263403
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MODO VIAGEM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="CULTURAL",MODO VIAGEM
 http://axr.life:80/096154/686531/1263403
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
-http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
 http://axr.life:80/096154/686531/1263418
-#EXTINF:-1 tvg-id="MTV.ar(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/36567
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754077.ts
 #EXTINF:-1 tvg-id="MusicTop.ar(m3u4u)" tvg-name="Music Top" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MUSICA",Music Top
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/41358
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/383332.ts
 #EXTINF:-1 tvg-id="MTV.mx(m3u4u)" tvg-name="MTV MX" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV MX
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/36564
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/438031.ts
 #EXTINF:-1 tvg-id="MTVLive.es(m3u4u)" tvg-name="MTV Live" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV Live
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/36570
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436381.ts
 #EXTINF:-1 tvg-id="Telehit.mx(m3u4u)" tvg-name="Telehit" tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="MUSICA",Telehit
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/36579
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/435146.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VEVO Latin Pop" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA",VEVO Latin Pop
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115722
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/519378.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VEVO 70'S" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA",VEVO 70'S
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115724
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/559198.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VEVO Reggaton Trap" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA",VEVO Reggaton Trap
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115706
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/559197.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VEVO 80'S" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="MUSICA",VEVO 80'S
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/115707
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/559199.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="MUSICA",VH1
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/36584
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754087.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Classic Project 1 (90s Reloaded 2008)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA",Classic Project 1 (90s Reloaded 2008)
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/132169
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/559181.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Classic Project 2 (Pop eurodance 90s)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="MUSICA",Classic Project 2 (Pop eurodance 90s)
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/132170
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/559182.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Alternative" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Classic Rock" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Classic Rock
@@ -228,42 +214,32 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Soul Storm" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Soul Storm
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tropicales" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSICA",Tropicales
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/14733
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/109898.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Quiero Musica" tvg-logo="http://swedtv.net:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="MUSICA",Quiero Musica
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/25189
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126065.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRUTV" tvg-logo="https://i.picasion.com/pic92/7c4e8694f6496f257495f7b195018868.gif" group-title="INVESTIGACION",TRUTV
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87011
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517137.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION",DISCOVERY ID
-http://playhispano.org:25461/tv5full/ORuTvDJARP/87077
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/436236.ts
 #EXTINF:-1 tvg-id="Antena3.es(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/35
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579618.ts
 #EXTINF:-1 tvg-id="Telecinco.es(m3u4u)" tvg-name="Telecinco" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54015_dark_360w_270h.png" group-title="ESPAÑA",Telecinco
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/77
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579624.ts
 #EXTINF:-1 tvg-id="La1.es(m3u4u)" tvg-name="LA 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91203_dark_360w_270h.png" group-title="ESPAÑA",LA 1
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70682
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579612.ts
 #EXTINF:-1 tvg-id="Cuatro.es(m3u4u)" tvg-name="Cuatro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91199_dark_360w_270h.png" group-title="ESPAÑA",Cuatro
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70685
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579621.ts
 #EXTINF:-1 tvg-id="LaSexta.es(m3u4u)" tvg-name="La Sexta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64649_dark_360w_270h.png" group-title="ESPAÑA",La Sexta
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/70687
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579627.ts
 #EXTINF:-1 tvg-id="La2.es(m3u4u)" tvg-name="La 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91206_dark_360w_270h.png" group-title="ESPAÑA",La 2
-http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/107
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/579615.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SBT CE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRASIL",SBT CE
-http://cdn.skoltv.site:80/36354035/34655043/108788
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/434338.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RECORD MT" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="BRASIL",RECORD MT
-http://cdn.skoltv.site:80/36354035/34655043/108789
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV DIÁRIO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="BRASIL",GLOBO TV DIÁRIO
-http://cdn.skoltv.site:80/36354035/34655043/108786
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV CABUGI" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV CABUGI
-http://cdn.skoltv.site:80/36354035/34655043/108780
-#EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-name="BLOOMBERG TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="NOTICIAS",BLOOMBERG TV
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN INTERNACIONACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NOTICIAS",CNN INTERNACIONACIONAL
-http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
-#EXTINF:-1 tvg-id="GameShowNetwork.us(m3u4u)" tvg-name="GAMES SHOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="NOTICIAS",GAMES SHOW
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PLUTO TV GAMER" tvg-logo="" group-title="NOTICIAS",PLUTO TV GAMER
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca7f16c37b88b2694731c79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=801&terminate=false&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="NOTICIAS",YAHOO FINANCE
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="PRUEBAS",TYC SPORTS
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/434384.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="BRASIL",GLOBO TV
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/554942.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO TV BAHIA" tvg-logo="http://natv.pm/logo/68951.jpg" group-title="BRASIL",GLOBO TV BAHIA
+http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/554920.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAHOO FINANCE" tvg-logo="" group-title="PRUEBAS",YAHOO FINANCE
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
