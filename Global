@@ -1,9 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="http://vmp.one:80/get.php?username=56uUkbXjm&password=3wG68uul4H&type=m3u_plus"
 #EXTINF:-1 tvg-id="ElTrece.ar(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/266.ts
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
-http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/383340.ts
-#EXTINF:-1 tvg-id="1" tvg-name="ARG: TELEFE" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="LAT | ARGENTINA",ARG: TELEFE
+#EXTINF:-1 tvg-id="TelefeInternacional.ar(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
 http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/383340.ts
 #EXTINF:-1 tvg-id="Canal26.ar(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
 http://sintoniaideal.com:25461/intertvla3232/Jd1hxw4zeZ/300838
