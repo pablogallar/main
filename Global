@@ -3,6 +3,8 @@
 http://disfruta.net:80/1020384/NnAQhsFApU/359
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
 http://disfruta.net:80/1020384/NnAQhsFApU/375
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFEMAX" tvg-logo="http://disfruta.net:80/images/8d6dff18cf501099851c55d6340fb2f6.jpg" group-title="CANAL AIRE",TELEFEMAX
+http://disfruta.net:80/1020384/NnAQhsFApU/376
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
 http://disfruta.net:80/1020384/NnAQhsFApU/347
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
@@ -19,12 +21,8 @@ http://disfruta.net:80/1020384/NnAQhsFApU/381
 http://disfruta.net:80/1020384/NnAQhsFApU/358
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="CANAL AIRE",Cronica TV
 http://disfruta.net:80/1020384/NnAQhsFApU/355
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIVISION Salta" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Milenium-TV-Salta-en-vivo-Online.png" group-title="CANAL AIRE",MULTIVISION Salta
-http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126029.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="CANAL AIRE",LN+
 http://disfruta.net:80/1020384/NnAQhsFApU/365
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="CANAL AIRE",Net TV
-http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/126059.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN PREMIUM" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES",ESPN PREMIUM
 http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/754094.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GARAGE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50263_dark_360w_270h.png" group-title="DEPORTES",GARAGE TV
