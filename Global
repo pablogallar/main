@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5md42tw6mevy39p"
 #EXTINF:-1 tvg-id="ElTrece.ar(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
-http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/517087.ts
+http://vmp.one/live/56uUkbXjm/3wG68uul4H/517087.ts
 #EXTINF:-1 tvg-id="TelefeInternacional.ar(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
-http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/383340.ts
+http://vmp.one/live/56uUkbXjm/3wG68uul4H/383340.ts
 #EXTINF:-1 tvg-id="Canal26.ar(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
 http://vmp.one:80/live/56uUkbXjm/3wG68uul4H/557338.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
