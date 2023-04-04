@@ -20,7 +20,14 @@ groupTitleAccepted = [
     'VOD-DOCUMENTALES',
     'VOD-BELICAS',
     'VOD-ACCION',
-    'VOD-DRAMA'
+    'VOD-DRAMA',
+    'VOD-CRIMEN',
+    'VOD-DISNEY ANIMACION',
+    'VOD-ANIMACION',
+    'VOD-AVENTURA',
+    'VOD-FANTASIA',
+    'VOD-MUSICAL',
+    'VOD-4K'
 ]
 
 plGlobal2 = M3UPlaylist()
