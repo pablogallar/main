@@ -114,11 +114,11 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117238
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="INFANTILES",DISNEY CHANNEL
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1377
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="INFANTILES",CARTOON NETWORK
-http://disfruta.net:80/1020384/NnAQhsFApU/2150
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26884
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTILES",NICK
-http://disfruta.net:80/1020384/NnAQhsFApU/2155
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1387
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTILES",TOONCAST
-http://disfruta.net:80/1020384/NnAQhsFApU/2182
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1396
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pakapaka" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" group-title="INFANTILES",Pakapaka
 http://disfruta.net:80/1020384/NnAQhsFApU/369
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Discovery Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="INFANTILES",Discovery Kids
@@ -208,7 +208,7 @@ http://disfruta.net:80/1020384/NnAQhsFApU/2105
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION",DISCOVERY ID
 http://disfruta.net:80/1020384/NnAQhsFApU/2112
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
-http://disfruta.net:80/1020384/NnAQhsFApU/1756
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117159
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telecinco" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54015_dark_360w_270h.png" group-title="ESPAÑA",Telecinco
 http://disfruta.net:80/1020384/NnAQhsFApU/1758
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LA 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91203_dark_360w_270h.png" group-title="ESPAÑA",LA 1
