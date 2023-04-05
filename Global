@@ -169,44 +169,6 @@ http://axr.life:80/096154/686531/1263400
 http://axr.life:80/096154/686531/1263403
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
 http://axr.life:80/096154/686531/1263418
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1304
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CM MUSICA" tvg-logo="" group-title="MUSICA",CM MUSICA
-http://disfruta.net:80/1020384/NnAQhsFApU/348
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Quiero Musica" tvg-logo="http://swedtv.net:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="MUSICA",Quiero Musica
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22118
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26944
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Music Top" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MUSICA",Music Top
-http://disfruta.net:80/1020384/NnAQhsFApU/368
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Live" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV Live
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26939
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telehit" tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="MUSICA",Telehit
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1315
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="MUSICA",VH1
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1323
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Alternative" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Alternative
-https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Classic Rock" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Classic Rock
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Exitos Del Momento" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Exitos Del Momento
-https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Flashback 70S" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Flashback 70S
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Greatest Hits" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Greatest Hits
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Hip-Hop/R&B" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Hip-Hop/R&B
-https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Hit List" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Hit List
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Hot Country" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Hot Country
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Pop Adult" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Pop Adult
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Remember The 80S" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Remember The 80S
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Soul Storm" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Soul Storm
-https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRUTV" tvg-logo="https://i.picasion.com/pic92/7c4e8694f6496f257495f7b195018868.gif" group-title="INVESTIGACION",TRUTV
 http://disfruta.net:80/1020384/NnAQhsFApU/2105
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION",DISCOVERY ID
@@ -244,15 +206,66 @@ http://51.210.199.25/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TECH STORM" tvg-logo="" group-title="INTERNACIONACIONAL",TECH STORM
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEACH & REGGAE" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",BEACH & REGGAE
-https://ytbiptv.herokuapp.com/video/VsgWgDyC84c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Música para la mañana" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Música para la mañana
-https://ytbiptv.herokuapp.com/video/N_c_HxD_1aE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Para levantar el animo" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Para levantar el animo
-https://ytbiptv.herokuapp.com/video/sfnUM2H27qY.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1304
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CM MUSICA" tvg-logo="" group-title="MUSICA",CM MUSICA
+http://disfruta.net:80/1020384/NnAQhsFApU/348
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Quiero Musica" tvg-logo="http://swedtv.net:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="MUSICA",Quiero Musica
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22118
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26944
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Music Top" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MUSICA",Music Top
+http://disfruta.net:80/1020384/NnAQhsFApU/368
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Live" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV Live
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26939
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telehit" tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="MUSICA",Telehit
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1315
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="MUSICA",VH1
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1323
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Playa & REGGAE" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Playa & REGGAE
+https://ytbiptv.onrender.com/video/VsgWgDyC84c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cuarteto 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Cuarteto 24/7
-https://ytbiptv.herokuapp.com/video/3mRRZ3J10rg.m3u8
+https://ytbiptv.onrender.com/video/3mRRZ3J10rg.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rock español 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Rock español 24/7
-https://ytbiptv.herokuapp.com/video/NPaf-4Acv3U.m3u8
+https://ytbiptv.onrender.com/video/NPaf-4Acv3U.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Folklore 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Folklore 24/7
-https://ytbiptv.herokuapp.com/video/L9fdEUuOB_8.m3u8
+https://ytbiptv.onrender.com/video/L9fdEUuOB_8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rock clasicos 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Rock clasicos 24/7
+https://ytbiptv.onrender.com/video/Va-h6WZPUzQ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dance Hits" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Dance Hits
+https://ytbiptv.onrender.com/video/EPXXYlY4uE4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bachata 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Bachata 24/7
+https://ytbiptv.onrender.com/video/mT-NAiXUd98.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="2000 Hits" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",2000 Hits
+https://ytbiptv.onrender.com/video/7UQjOuqZ3V4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="70s-80s Hits" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",70s-80s Hits
+https://ytbiptv.onrender.com/video/wXH_SkhhWds.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dance alegre" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Dance alegre
+https://ytbiptv.onrender.com/video/vDUrJvQJ92M.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Deep House" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Deep House
+https://ytbiptv.onrender.com/video/zXG6jwinb7M.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Buena vida" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Buena vida
+https://ytbiptv.onrender.com/video/36YnV9STBqc.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Manten la calma y siente el Reggae" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Manten la calma y siente el Reggae
+https://ytbiptv.onrender.com/video/yY9AM4UlFB0.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Música para la mañana" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Música para la mañana
+https://ytbiptv.onrender.com/video/N_c_HxD_1aE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Para levantar el animo" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Para levantar el animo
+https://ytbiptv.onrender.com/video/sfnUM2H27qY.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="KOREA - SEUL" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",KOREA - SEUL
+https://ytbiptv.onrender.com/video/AguwBNWVhRw.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="New York" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",New York
+https://ytbiptv.onrender.com/video/1aXEHKGDKMQ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="JAPON - TOKYO" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",JAPON - TOKYO
+https://ytbiptv.onrender.com/video/cH7VBI4QQzA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HONG KONG" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",HONG KONG
+https://ytbiptv.onrender.com/video/ALwW9TbsoBk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AFRICA" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",AFRICA
+https://ytbiptv.onrender.com/video/prN2EB_N0o.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ITALIA DESDE EL CIELO" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",ITALIA DESDE EL CIELO
+https://ytbiptv.onrender.com/video/6KEThZ_SXlk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LONDRES" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="CIUDADES EN VIVO",LONDRES
+https://ytbiptv.onrender.com/video/VDY9zTfcDQU.m3u8
