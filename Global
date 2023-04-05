@@ -3,7 +3,13 @@
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153937
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153673
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMAX" tvg-logo="http://disfruta.net:80/images/8d6dff18cf501099851c55d6340fb2f6.jpg" group-title="CANAL AIRE",TELEFEMAX
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
+https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153934
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Television Publica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="CANAL AIRE",Television Publica
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/116203
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMAX" tvg-logo="http://disfruta.net:80/images/8d6dff18cf501099851c55d6340fb2f6.jpg" group-title="CANAL AIRE",TELEMAX
 http://disfruta.net:80/1020384/NnAQhsFApU/376
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153860
@@ -13,16 +19,14 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/116192
 http://disfruta.net:80/1020384/NnAQhsFApU/378
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="C5N" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="CANAL AIRE",C5N
 http://disfruta.net:80/1020384/NnAQhsFApU/344
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
-https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Television Publica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="CANAL AIRE",Television Publica
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/116203
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153934
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="CANAL AIRE",Cronica TV
 http://disfruta.net:80/1020384/NnAQhsFApU/355
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="CANAL AIRE",LN+
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153864
+#EXTINF:-1 tvg-id="Argentinísima.ar" tvg-name="Argentinisima" tvg-logo="https://1.bp.blogspot.com/-sLB3y_I89Q4/X2QILWHb8FI/AAAAAAAABW4/-NRRBfBPs1wcN1NZYAWAdaxJCpC7jM-fACLcBGAsYHQ/w200-h200/38%2BArgentinisima.png" group-title="CANAL AIRE",Argentinisima
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22096
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://1.bp.blogspot.com/-GS7xouePKvg/X2QII3XyecI/AAAAAAAABWk/50zjjYoO71UOFccD2cTQ6_82oEvXR3kugCLcBGAsYHQ/w200-h200/33%2BMetro%2Btv..png" group-title="CANAL AIRE",Metro
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22116
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DEPORTV" tvg-logo="" group-title="DEPORTES",DEPORTV
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/59796
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN PREMIUM" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES",ESPN PREMIUM
@@ -51,7 +55,7 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117137
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1474
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://1.bp.blogspot.com/-m1oCMFjG3ug/Xz87KGiI1EI/AAAAAAAABJ4/ArWG1xLYopM3dqWio3izvW6V-8QWOAOlwCLcBGAsYHQ/w200-h200/5%2BPasiones.png" group-title="PELICULAS-SERIES",PASIONES
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/3253
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="PELICULAS-SERIES",Telemundo
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="INTERNACIONAL",Telemundo
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1277
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VOLVER" tvg-logo="" group-title="PELICULAS-SERIES",VOLVER
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22128
@@ -96,7 +100,7 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1035
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO MUNDI
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/53238
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO SIGNATURE
-http://disfruta.net:80/1020384/NnAQhsFApU/5153
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/52879
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="PELICULAS-SERIES",TLC
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26890
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="PELICULAS-SERIES",COMEDY CENTRAL
@@ -122,43 +126,43 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1396
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pakapaka" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" group-title="INFANTILES",Pakapaka
 http://disfruta.net:80/1020384/NnAQhsFApU/369
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Discovery Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="INFANTILES",Discovery Kids
-http://disfruta.net:80/1020384/NnAQhsFApU/2174
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26887
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nick Jr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="INFANTILES",Nick Jr
-http://disfruta.net:80/1020384/NnAQhsFApU/2159
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLA TV" tvg-logo="" group-title="CULTURAL",HOLA TV
-http://disfruta.net:80/1020384/NnAQhsFApU/2107
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MAS CHIC" tvg-logo="" group-title="CULTURAL",MAS CHIC
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1393
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLA TV" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png" group-title="CULTURAL",HOLA TV
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26958
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MAS CHIC" tvg-logo="https://1.bp.blogspot.com/-xJZbc0hvFXg/Xm7SE-8HbyI/AAAAAAAABnk/-1fm_mQwbi8H-TzKWjfka0VgbJbbd4naQCLcBGAsYHQ/s200/47.png" group-title="CULTURAL",MAS CHIC
 http://disfruta.net:80/1020384/NnAQhsFApU/2123
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RURAL" tvg-logo="" group-title="CANAL AIRE",RURAL
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RURAL" tvg-logo="https://1.bp.blogspot.com/-jshSuUx7P_A/X2QIIa7rhiI/AAAAAAAABWg/CdrTh3XOL-4nKLLctio21mN1Qjh4yF04QCLcBGAsYHQ/w200-h200/32%2BCanal%2Brural.png" group-title="CANAL AIRE",RURAL
 http://disfruta.net:80/1020384/NnAQhsFApU/371
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CULTURAL",HISTORIA
-http://disfruta.net:80/1020384/NnAQhsFApU/2386
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="CULTURAL",LIFETIME
-http://disfruta.net:80/1020384/NnAQhsFApU/2117
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1406
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="PELICULAS-SERIES",LIFETIME
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26914
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY H&H
-http://disfruta.net:80/1020384/NnAQhsFApU/2120
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1080
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CULTURAL",H2
-http://disfruta.net:80/1020384/NnAQhsFApU/2389
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1408
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="E ENTERTAIN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CULTURAL",E ENTERTAIN
-http://disfruta.net:80/1020384/NnAQhsFApU/2109
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26913
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY SCIENCE
-http://disfruta.net:80/1020384/NnAQhsFApU/2400
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/58100
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="CULTURAL",CNN
-http://disfruta.net:80/1020384/NnAQhsFApU/2354
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26932
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26928
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY CHANNEL
-http://disfruta.net:80/1020384/NnAQhsFApU/2398
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26891
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CULTURAL",ANIMAL PLANET
-http://disfruta.net:80/1020384/NnAQhsFApU/2379
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1398
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY WORLD
-http://disfruta.net:80/1020384/NnAQhsFApU/2396
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1424
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67590_dark_360w_270h.png" group-title="CULTURAL",NAT GEO WILD
-http://disfruta.net:80/1020384/NnAQhsFApU/1816
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117193
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="CULTURAL",Food Network
-http://disfruta.net:80/1020384/NnAQhsFApU/2129
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26909
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COCINA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90332_dark_360w_270h.png" group-title="CULTURAL",COCINA
-http://disfruta.net:80/1020384/NnAQhsFApU/1862
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117200
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MARKKET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124582_dark_360w_270h.png" group-title="CULTURAL",MARKKET
 http://axr.life:80/096154/686531/1263400
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MODO VIAGEM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="CULTURAL",MODO VIAGEM
@@ -166,21 +170,21 @@ http://axr.life:80/096154/686531/1263403
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="CULTURAL",TRAVEL BOX BRAZIL
 http://axr.life:80/096154/686531/1263418
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
-http://disfruta.net:80/1020384/NnAQhsFApU/2136
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1304
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CM MUSICA" tvg-logo="" group-title="MUSICA",CM MUSICA
 http://disfruta.net:80/1020384/NnAQhsFApU/348
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Quiero Musica" tvg-logo="http://swedtv.net:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="MUSICA",Quiero Musica
-http://disfruta.net:80/1020384/NnAQhsFApU/349
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22118
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MUSICA",MTV
-http://disfruta.net:80/1020384/NnAQhsFApU/2133
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26944
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Music Top" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MUSICA",Music Top
 http://disfruta.net:80/1020384/NnAQhsFApU/368
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Live" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="MUSICA",MTV Live
-http://disfruta.net:80/1020384/NnAQhsFApU/2131
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26939
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telehit" tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="MUSICA",Telehit
-http://disfruta.net:80/1020384/NnAQhsFApU/2145
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1315
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="MUSICA",VH1
-http://disfruta.net:80/1020384/NnAQhsFApU/2140
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1323
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Alternative" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Stingray Classic Rock" tvg-logo="https://img.freepik.com/premium-vector/stingray-logo-template-design-vector_20029-740.jpg" group-title="MUSICA",Stingray Classic Rock
@@ -208,17 +212,19 @@ http://disfruta.net:80/1020384/NnAQhsFApU/2105
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="INVESTIGACION",DISCOVERY ID
 http://disfruta.net:80/1020384/NnAQhsFApU/2112
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117158
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117159
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telecinco" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54015_dark_360w_270h.png" group-title="ESPAÑA",Telecinco
-http://disfruta.net:80/1020384/NnAQhsFApU/1758
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117164
+#EXTINF:-1 tvg-id="TVEIntAmerica.es" tvg-name="TVE Internacional" tvg-logo="https://1.bp.blogspot.com/-pKs_F0tjwUw/XztMfpaAWLI/AAAAAAAABHE/_8sjXpxnPq8YKMZaaa3U3pbE6GQtXSkhgCLcBGAsYHQ/w200-h200/95%2BTve%2Bin.png" group-title="ESPAÑA",TVE Internacional
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117152
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LA 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91203_dark_360w_270h.png" group-title="ESPAÑA",LA 1
-http://disfruta.net:80/1020384/NnAQhsFApU/1754
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117154
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cuatro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91199_dark_360w_270h.png" group-title="ESPAÑA",Cuatro
-http://disfruta.net:80/1020384/NnAQhsFApU/1757
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117162
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Sexta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64649_dark_360w_270h.png" group-title="ESPAÑA",La Sexta
-http://disfruta.net:80/1020384/NnAQhsFApU/1759
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117166
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91206_dark_360w_270h.png" group-title="ESPAÑA",La 2
-http://disfruta.net:80/1020384/NnAQhsFApU/1755
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117156
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SBT CE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRASIL",SBT CE
 http://disfruta.net:80/1020384/NnAQhsFApU/3256
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RECORD MT" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="BRASIL",RECORD MT
