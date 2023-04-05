@@ -243,3 +243,12 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 http://51.210.199.25/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TECH STORM" tvg-logo="" group-title="INTERNACIONACIONAL",TECH STORM
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEACH & REGGAE" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",BEACH & REGGAE
+https://ytbiptv.herokuapp.com/video/VsgWgDyC84c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Música para a manhã" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Música para la mañana
+https://ytbiptv.herokuapp.com/video/N_c_HxD_1aE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Feeling me" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Feeling me
+https://ytbiptv.herokuapp.com/video/cDiWGuqzzio.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Feeling me" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Para levantar el animo
+https://ytbiptv.herokuapp.com/video/sfnUM2H27qY.m3u8

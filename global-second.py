@@ -20,6 +20,7 @@ groupTitleAccepted = [
     'VOD-DOCUMENTALES',
     'VOD-BELICAS',
     'VOD-ACCION',
+    'VOD-COMEDIA',
     'VOD-DRAMA',
     'VOD-CRIMEN',
     'VOD-DISNEY ANIMACION',
