@@ -246,9 +246,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEACH & REGGAE" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",BEACH & REGGAE
 https://ytbiptv.herokuapp.com/video/VsgWgDyC84c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Música para a manhã" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Música para la mañana
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Música para la mañana" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Música para la mañana
 https://ytbiptv.herokuapp.com/video/N_c_HxD_1aE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Feeling me" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Feeling me
-https://ytbiptv.herokuapp.com/video/cDiWGuqzzio.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Feeling me" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Para levantar el animo
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Para levantar el animo" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Para levantar el animo
 https://ytbiptv.herokuapp.com/video/sfnUM2H27qY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cuarteto 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Cuarteto 24/7
+https://ytbiptv.herokuapp.com/video/3mRRZ3J10rg.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rock español 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Rock español 24/7
+https://ytbiptv.herokuapp.com/video/NPaf-4Acv3U.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Folklore 24/7" tvg-logo="https://w7.pngwing.com/pngs/674/324/png-transparent-youtube-logo-music-video-computer-icons-youtube-logo-text-trademark-logo.png" group-title="MUSICA",Folklore 24/7
+https://ytbiptv.herokuapp.com/video/L9fdEUuOB_8.m3u8
