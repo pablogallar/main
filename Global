@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5md42tw6mevy39p"
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153937
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153673
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52518.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153934
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/94132.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Television Publica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="CANAL AIRE",Television Publica
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/116203
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52522.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMAX" tvg-logo="http://disfruta.net:80/images/8d6dff18cf501099851c55d6340fb2f6.jpg" group-title="CANAL AIRE",TELEMAX
 http://disfruta.net:80/1020384/NnAQhsFApU/376
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 26" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="CANAL AIRE",CANAL 26
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153860
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52533.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="CANAL AIRE",A24
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/116192
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TN NOTICIAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79899_dark_360w_270h.png" group-title="CANAL AIRE",TN NOTICIAS
-http://disfruta.net:80/1020384/NnAQhsFApU/378
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52521.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="C5N" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="CANAL AIRE",C5N
-http://disfruta.net:80/1020384/NnAQhsFApU/344
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52535.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="CANAL AIRE",Cronica TV
-http://disfruta.net:80/1020384/NnAQhsFApU/355
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52503.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="CANAL AIRE",LN+
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/153864
 #EXTINF:-1 tvg-id="Argentinísima.ar" tvg-name="Argentinisima" tvg-logo="https://1.bp.blogspot.com/-sLB3y_I89Q4/X2QILWHb8FI/AAAAAAAABW4/-NRRBfBPs1wcN1NZYAWAdaxJCpC7jM-fACLcBGAsYHQ/w200-h200/38%2BArgentinisima.png" group-title="CANAL AIRE",Argentinisima
@@ -28,9 +28,9 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22096
 #EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://1.bp.blogspot.com/-GS7xouePKvg/X2QII3XyecI/AAAAAAAABWk/50zjjYoO71UOFccD2cTQ6_82oEvXR3kugCLcBGAsYHQ/w200-h200/33%2BMetro%2Btv..png" group-title="CANAL AIRE",Metro
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22116
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DEPORTV" tvg-logo="" group-title="DEPORTES",DEPORTV
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/59796
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52504.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN PREMIUM" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="DEPORTES",ESPN PREMIUM
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/59809
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/165275.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/22112
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN2
