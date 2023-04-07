@@ -74,9 +74,9 @@ http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324315.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="PELICULAS-SERIES",UNIVERSAL CHANNEL
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121689.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="PELICULAS-SERIES",AXN
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117214
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324319.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="PELICULAS-SERIES",A&E
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26925
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121613.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="PELICULAS-SERIES",TBS
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1499
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="PELICULAS-SERIES",AMC
