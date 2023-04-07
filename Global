@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
-http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52518.ts
+http://176.57.50.167:25461/102413/544469/61844
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
@@ -76,33 +76,37 @@ http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121689.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="PELICULAS-SERIES",AXN
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324319.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="PELICULAS-SERIES",A&E
-http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324622.ts
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/118599.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="PELICULAS-SERIES",TBS
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1499
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121706.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="PELICULAS-SERIES",AMC
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26931
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324326.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="PELICULAS-SERIES",SYFY
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117248
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121691.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT CHANNEL
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26926
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324320.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="PELICULAS-SERIES",TNT SERIES
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26907
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121701.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="PELICULAS-SERIES",PARAMOUNT
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1486
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121642.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/141189
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324328.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO+
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1434
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324349.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO 2
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/52876
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121627.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO FAMILY
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/1035
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121630.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO MUNDI
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/53238
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121633.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO SIGNATURE
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/52879
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/324619.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO XTREME
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121639.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="PELICULAS-SERIES",HBO POP
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/121638.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="PELICULAS-SERIES",TLC
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26890
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/129169.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="PELICULAS-SERIES",COMEDY CENTRAL
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26929
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="PELICULAS-SERIES",TCM
