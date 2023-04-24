@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="EL TRECE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="CANAL AIRE",EL TRECE
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="CANAL AIRE",TELEFE
-http://streamsoom.info:8080/tatoo25/tatoaner8/264
+http://disfruta.net:80/1020384/NnAQhsFApU/374
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="America TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="CANAL AIRE",America TV
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Nueve" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="CANAL AIRE",El Nueve
