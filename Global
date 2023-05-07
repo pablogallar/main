@@ -45,8 +45,8 @@ http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/82238.ts
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/166501.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/48995.ts
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TyC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports Internacional
-http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/62588.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TyC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports
+http://51.222.43.170:8001/eduardo.gonzalezt/h3GwC9EKZUf8/262179
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="DEPORTES",Movistar Deportes
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/82815.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Movistar Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90358_dark_360w_270h.png" group-title="DEPORTES",Movistar Golf
