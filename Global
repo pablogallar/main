@@ -154,7 +154,9 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/58100
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="CULTURAL",CNN
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26932
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26928
+http://51.222.43.170:8001/eduardo.gonzalezt/h3GwC9EKZUf8/263444
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOURMET MEXICO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="CULTURAL",GOURMET MEXICO
+http://51.222.43.170:8001/eduardo.gonzalezt/h3GwC9EKZUf8/99
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURAL",DISCOVERY CHANNEL
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26891
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CULTURAL",ANIMAL PLANET
