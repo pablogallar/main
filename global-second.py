@@ -4,7 +4,7 @@ from ipytv import playlist
 from ipytv.playlist import M3UPlaylist
 from ipytv.channel import IPTVChannel
 
-PORT = 8000
+PORT = 80
 
 class RequestHandler(http.server.BaseHTTPRequestHandler):
     def do_GET(self):
