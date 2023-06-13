@@ -17,6 +17,9 @@ def download_m3u():
         if (channel.attributes["tvg-id"] == ""):
             channel.attributes["tvg-id"] = channel.attributes["tvg-name"]
     
+    with open('global.m3u', 'w', encoding='utf-8') as out_file:
+        out_file.write(pl.to_m3u_plus_playlist())
+
     threading.Timer(300.0, download_m3u).start()
 
 class RequestHandler(http.server.BaseHTTPRequestHandler):
@@ -24,7 +27,9 @@ class RequestHandler(http.server.BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-Type", "text/txt")
         self.end_headers()
-        self.wfile.write(pl.to_m3u_plus_playlist().encode())
+
+        with open('global.m3u', 'rb') as file: 
+            self.wfile.write(file.read())
 
 if __name__ == '__main__':
     download_m3u()
