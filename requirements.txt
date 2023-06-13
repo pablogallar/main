@@ -1,1 +1,2 @@
 ipytv
+m3u-ipytv
