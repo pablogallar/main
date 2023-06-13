@@ -1,43 +1,28 @@
+import http.server
+import time
 from ipytv import playlist
 from ipytv.playlist import M3UPlaylist
 from ipytv.channel import IPTVChannel
 
-url = "http://tv.multitv.live:25461/get.php?username=Martha11CA&password=I4bSzJfAzE&type=m3u_plus"
-pl = playlist.loadu(url)
-groupTitleAccepted = [
-    'SERIES-ESTRENOS',
-    'SERIES-DRAMA',
-    'SERIES-CRIMEN',
-    'SERIES-DOCUMENTALES',
-    'SERIES-CIENCIA FICCION',
-    'SERIES-WESTERN',
-    'SERIES-REALITY',
-    'SERIES-COMEDIA',
-    'SERIES-NOVELA',
-    'SERIES-ACCION',
-    'VOD-ESTRENO',
-    'VOD-HORROR',
-    'VOD-DOCUMENTALES',
-    'VOD-BELICAS',
-    'VOD-ACCION',
-    'VOD-COMEDIA',
-    'VOD-DRAMA',
-    'VOD-CRIMEN',
-    'VOD-DISNEY ANIMACION',
-    'VOD-ANIMACION',
-    'VOD-AVENTURA',
-    'VOD-FANTASIA',
-    'VOD-MUSICAL',
-    'VOD-4K'
-]
+PORT = 8000
 
-plGlobal2 = M3UPlaylist()
+class RequestHandler(http.server.BaseHTTPRequestHandler):
+    def do_GET(self):
+        url = "http://tv.dominiotv.xyz:25461/get.php?username=Rolando&password=Rolando2021&type=m3u_plus"
+        pl = playlist.loadu(url)
 
-with open('global2.m3u', 'w', encoding='utf-8') as out_file:
-    
-    for channel in pl:
-        if (any(substring in channel.attributes["group-title"] for substring in groupTitleAccepted)):
-            plGlobal2.append_channel(channel)
-            print(f'group: {channel.attributes["group-title"]} channel \"{channel.name}\": {channel.url}')
+        plGlobal = M3UPlaylist()
 
-    out_file.write(plGlobal2.to_m3u_plus_playlist())
+        for channel in pl:
+            channel.attributes["tvg-id"] = channel.attributes["tvg-name"]
+            plGlobal.append_channel(channel)
+
+        self.send_response(200)
+        self.send_header("Content-Type", "text/txt")
+        self.end_headers()
+        self.wfile.write(plGlobal.to_m3u_plus_playlist().encode())
+
+if __name__ == '__main__':
+    serverAddress = ('', PORT)
+    server = http.server.HTTPServer(serverAddress, RequestHandler)
+    server.serve_forever()
