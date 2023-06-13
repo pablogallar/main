@@ -17,7 +17,7 @@ def download_m3u():
         if (channel.attributes["tvg-id"] == ""):
             channel.attributes["tvg-id"] = channel.attributes["tvg-name"]
     
-    threading.Timer(10.0, download_m3u).start()
+    threading.Timer(300.0, download_m3u).start()
 
 class RequestHandler(http.server.BaseHTTPRequestHandler):
     def do_GET(self):
